@@ -1,0 +1,9 @@
+[
+    {
+        "Protocol": "TCP",
+        "Port": 6969,
+        "Ref": "ServerPort",
+        "Name": "SPT Server Port",
+        "Description": "Port for SPT Server traffic"
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "ConfigFile": "SPT_Runtime/SPT_Data/configs/http.json",
+        "ConfigType": "json",
+        "AutoMap": true
+    }
+]
